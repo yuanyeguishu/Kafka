@@ -37,5 +37,6 @@ public class App
         }
         producer.close();
         System.out.println(2);
+        System.out.println(1);
     }
 }
