@@ -27,3 +27,5 @@ kafka.iml
 target/
 .project
 .settings/
+.classpath
+.vscode/
